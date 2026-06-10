@@ -5,6 +5,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;Next.js+%2B+AWS+Architect;AI+for+Bharat+National+Finalist+(Top+6);Adobe+Hackathon+National+Finalist+(Top+7);Building+High-Performance+Distributed+Systems)](https://git.io/typing-svg)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvikRay1001/AvikRay1001/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvikRay1001/AvikRay1001/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/AvikRay1001/AvikRay1001/output/github-contribution-grid-snake.svg" width="80%">
+  </picture>
+</div>
+
 </div>
 
 <br/>
@@ -66,14 +74,6 @@ I build production-grade, highly resilient applications engineered for scale and
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvikRay1001&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvikRay1001&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvikRay1001/AvikRay1001/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvikRay1001/AvikRay1001/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/AvikRay1001/AvikRay1001/output/github-contribution-grid-snake.svg" width="80%">
-  </picture>
 </div>
 
 <div align="center">
