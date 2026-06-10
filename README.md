@@ -64,16 +64,16 @@ I build production-grade, highly resilient applications engineered for scale and
 ## 📈 THE METRICS (Scale & Consistency)
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvikRay1001&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvikRay1001&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvikRay1001/AvikRay1001/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvikRay1001/AvikRay1001/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/AvikRay1001/AvikRay1001/output/github-contribution-grid-snake.svg" width="80%">
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvikRay1001&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvikRay1001&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </div>
 
 <div align="center">
